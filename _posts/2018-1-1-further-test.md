@@ -9,7 +9,11 @@ title: local image test
 
 ### subsubheading
 
+![]({{ site.baseurl }}/images/067.JPG)
+
 ![]({{ site.baseurl }}/images/052.JPG)
+
+
 
 fasdf
 
