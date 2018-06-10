@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some ~blob~bloggins
+Some ~~blob~~bloggins
 
 ### More Information
 
